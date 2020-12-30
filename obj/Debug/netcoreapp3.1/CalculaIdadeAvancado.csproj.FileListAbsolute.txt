@@ -1,0 +1,26 @@
+/home/klaathus/Documents/programacao/DS1/Aula 15.06/CalculaIdadeAvancado/bin/Debug/netcoreapp3.1/CalculaIdadeAvancado
+/home/klaathus/Documents/programacao/DS1/Aula 15.06/CalculaIdadeAvancado/bin/Debug/netcoreapp3.1/CalculaIdadeAvancado.deps.json
+/home/klaathus/Documents/programacao/DS1/Aula 15.06/CalculaIdadeAvancado/bin/Debug/netcoreapp3.1/CalculaIdadeAvancado.runtimeconfig.json
+/home/klaathus/Documents/programacao/DS1/Aula 15.06/CalculaIdadeAvancado/bin/Debug/netcoreapp3.1/CalculaIdadeAvancado.runtimeconfig.dev.json
+/home/klaathus/Documents/programacao/DS1/Aula 15.06/CalculaIdadeAvancado/bin/Debug/netcoreapp3.1/CalculaIdadeAvancado.dll
+/home/klaathus/Documents/programacao/DS1/Aula 15.06/CalculaIdadeAvancado/bin/Debug/netcoreapp3.1/CalculaIdadeAvancado.pdb
+/home/klaathus/Documents/programacao/DS1/Aula 15.06/CalculaIdadeAvancado/obj/Debug/netcoreapp3.1/CalculaIdadeAvancado.csprojAssemblyReference.cache
+/home/klaathus/Documents/programacao/DS1/Aula 15.06/CalculaIdadeAvancado/obj/Debug/netcoreapp3.1/CalculaIdadeAvancado.AssemblyInfoInputs.cache
+/home/klaathus/Documents/programacao/DS1/Aula 15.06/CalculaIdadeAvancado/obj/Debug/netcoreapp3.1/CalculaIdadeAvancado.AssemblyInfo.cs
+/home/klaathus/Documents/programacao/DS1/Aula 15.06/CalculaIdadeAvancado/obj/Debug/netcoreapp3.1/CalculaIdadeAvancado.csproj.CoreCompileInputs.cache
+/home/klaathus/Documents/programacao/DS1/Aula 15.06/CalculaIdadeAvancado/obj/Debug/netcoreapp3.1/CalculaIdadeAvancado.dll
+/home/klaathus/Documents/programacao/DS1/Aula 15.06/CalculaIdadeAvancado/obj/Debug/netcoreapp3.1/CalculaIdadeAvancado.pdb
+/home/klaathus/Documents/programacao/DS1/Aula 15.06/CalculaIdadeAvancado/obj/Debug/netcoreapp3.1/CalculaIdadeAvancado.genruntimeconfig.cache
+G:\Meu Drive\1o Semestre\Desenvolvimento de Sistemas 1\Aula 15.06\CalculaIdadeAvancado\bin\Debug\netcoreapp3.1\CalculaIdadeAvancado.exe
+G:\Meu Drive\1o Semestre\Desenvolvimento de Sistemas 1\Aula 15.06\CalculaIdadeAvancado\bin\Debug\netcoreapp3.1\CalculaIdadeAvancado.deps.json
+G:\Meu Drive\1o Semestre\Desenvolvimento de Sistemas 1\Aula 15.06\CalculaIdadeAvancado\bin\Debug\netcoreapp3.1\CalculaIdadeAvancado.runtimeconfig.json
+G:\Meu Drive\1o Semestre\Desenvolvimento de Sistemas 1\Aula 15.06\CalculaIdadeAvancado\bin\Debug\netcoreapp3.1\CalculaIdadeAvancado.runtimeconfig.dev.json
+G:\Meu Drive\1o Semestre\Desenvolvimento de Sistemas 1\Aula 15.06\CalculaIdadeAvancado\bin\Debug\netcoreapp3.1\CalculaIdadeAvancado.dll
+G:\Meu Drive\1o Semestre\Desenvolvimento de Sistemas 1\Aula 15.06\CalculaIdadeAvancado\bin\Debug\netcoreapp3.1\CalculaIdadeAvancado.pdb
+G:\Meu Drive\1o Semestre\Desenvolvimento de Sistemas 1\Aula 15.06\CalculaIdadeAvancado\obj\Debug\netcoreapp3.1\CalculaIdadeAvancado.csprojAssemblyReference.cache
+G:\Meu Drive\1o Semestre\Desenvolvimento de Sistemas 1\Aula 15.06\CalculaIdadeAvancado\obj\Debug\netcoreapp3.1\CalculaIdadeAvancado.AssemblyInfoInputs.cache
+G:\Meu Drive\1o Semestre\Desenvolvimento de Sistemas 1\Aula 15.06\CalculaIdadeAvancado\obj\Debug\netcoreapp3.1\CalculaIdadeAvancado.AssemblyInfo.cs
+G:\Meu Drive\1o Semestre\Desenvolvimento de Sistemas 1\Aula 15.06\CalculaIdadeAvancado\obj\Debug\netcoreapp3.1\CalculaIdadeAvancado.csproj.CoreCompileInputs.cache
+G:\Meu Drive\1o Semestre\Desenvolvimento de Sistemas 1\Aula 15.06\CalculaIdadeAvancado\obj\Debug\netcoreapp3.1\CalculaIdadeAvancado.dll
+G:\Meu Drive\1o Semestre\Desenvolvimento de Sistemas 1\Aula 15.06\CalculaIdadeAvancado\obj\Debug\netcoreapp3.1\CalculaIdadeAvancado.pdb
+G:\Meu Drive\1o Semestre\Desenvolvimento de Sistemas 1\Aula 15.06\CalculaIdadeAvancado\obj\Debug\netcoreapp3.1\CalculaIdadeAvancado.genruntimeconfig.cache
